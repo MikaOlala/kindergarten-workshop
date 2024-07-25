@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">kindergarten-workshop</string>
+    <string name="this_is_my_kindergarten">Well, hello, this is my kindergarten</string>
+    <string name="what_my_paws_can">WHAT MY PAWS CAN POSSIBLY DO (RESUME)</string>
+    <string name="oho_ho">Oho-ho</string>
+    <string name="my_name_is">My name is</string>
+    <string name="malika">Malika</string>
+    <string name="idc_its_cringe">I don\'t care if it\'s cringe I\'ll keep doing all my thing :p</string>
 </resources>

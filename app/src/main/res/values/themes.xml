@@ -2,7 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.Kindergartenworkshop" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="android:textColor">@color/purple_text_main</item>
+         <item name="android:fontFamily">@font/inika</item>
+         <item name="android:textSize">@dimen/text_size_small</item>
     </style>
 
     <style name="Theme.Kindergartenworkshop" parent="Base.Theme.Kindergartenworkshop" />
