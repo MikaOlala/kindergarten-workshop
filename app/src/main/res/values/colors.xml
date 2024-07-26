@@ -2,9 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
 
     <color name="white_transparent">#65FFFFFF</color>
+    <color name="white_transparent_50">#80FFFFFF</color>
     <color name="peach_transparent">#CCF3C7C7</color>
+    <color name="pink_transparent">#B3EF7EA7</color>
+    <color name="pink_glow_transparent">#B3FF00A8</color>
+
+
     <color name="purple_text_main">#8C2B95</color>
     <color name="yellow_button_main">#FAF4BA</color>
     <color name="yellow_button_main_pressed">#BCB35B</color>
